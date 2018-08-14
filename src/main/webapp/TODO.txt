@@ -1,0 +1,2 @@
+1. In signup reducer make spread operator for summ arr errors
+2. Make backend server validation for simultaneosly validation email and username
